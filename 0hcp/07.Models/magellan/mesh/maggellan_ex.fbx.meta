@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 7678e6a79514b324da40efaadafd0d16
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: aluminum
+    100002: aluminum2
+    100004: dish_etc
+    100006: korpus
+    100008: //RootNode
+    100010: solar_plane
+    100012: solar_plane1
+    400000: aluminum
+    400002: aluminum2
+    400004: dish_etc
+    400006: korpus
+    400008: //RootNode
+    400010: solar_plane
+    400012: solar_plane1
+    2300000: aluminum
+    2300002: aluminum2
+    2300004: dish_etc
+    2300006: korpus
+    2300008: solar_plane
+    2300010: solar_plane1
+    3300000: aluminum
+    3300002: aluminum2
+    3300004: dish_etc
+    3300006: korpus
+    3300008: solar_plane
+    3300010: solar_plane1
+    4300000: korpus
+    4300002: aluminum
+    4300004: dish_etc
+    4300006: solar_plane
+    4300008: aluminum2
+    4300010: solar_plane1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum1
+    second: {fileID: 2100000, guid: aee7af7d2a2a07a4d95b53d21946e3f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 82e13eab8efcd764190a697124eb4cdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 911d2c7b56e35d545a8e60fc34db34aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shiny_panel1
+    second: {fileID: 2100000, guid: fb11a7c9e5777c24f9521f5d349ababb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
